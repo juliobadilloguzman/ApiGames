@@ -5,7 +5,7 @@ export default{
         user: 'root',
         password: 'root',
         database: 'games',
-        port: 8889
+        port: 3306 //8889 
     }
 
 }
